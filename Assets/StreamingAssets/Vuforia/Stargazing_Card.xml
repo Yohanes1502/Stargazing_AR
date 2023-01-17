@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="virgo" size="1.000000 1.777778" />
+    <ImageTarget name="pisces" size="1.000000 1.777778" />
+    <ImageTarget name="aquarius" size="1.000000 1.777778" />
+    <ImageTarget name="capricorn" size="1.000000 1.777778" />
+    <ImageTarget name="sagitarius" size="1.000000 1.777778" />
+    <ImageTarget name="scorpio" size="1.000000 1.777778" />
+    <ImageTarget name="libra" size="1.000000 1.777778" />
+    <ImageTarget name="leo" size="1.000000 1.777778" />
+    <ImageTarget name="cancer" size="1.000000 1.777778" />
+    <ImageTarget name="Gemini" size="1.000000 1.777778" />
+    <ImageTarget name="Taurus" size="1.000000 1.777778" />
+    <ImageTarget name="aries" size="1.000000 1.777778" />
+  </Tracking>
+</QCARConfig>
